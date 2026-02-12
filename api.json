@@ -1,0 +1,157 @@
+{
+  "category": "CRYPTID",
+
+  "meta": {
+    "version": "1.0.0",
+    "schema_version": "1.0.0",
+    "last_updated": "2026-01-14",
+    "repository": "https://github.com/wyrdness/tote-road-shagamaw",
+    "maintainers": [
+      {
+        "name": "Wyrdness Team",
+        "github": "wyrdness",
+        "role": "maintainer"
+      }
+    ],
+    "license": {
+      "data": "CC0-1.0",
+      "content": "CC-BY-4.0"
+    }
+  },
+
+  "phenomenon": {
+    "id": "tote-road-shagamaw",
+    "name": "Tote-Road Shagamaw",
+    "aliases": [
+      {
+        "name": "Shagamaw"
+      }
+    ],
+    "category": "CRYPTID",
+    "subcategory": "Fearsome Critter",
+    "tags": [
+      "fearsome-critter",
+      "lumberjack-folklore",
+      "hybrid-creature",
+      "moose-bear",
+      "humorous",
+      "tall-tale"
+    ],
+    "status": "folklore",
+    "description": {
+      "summary": "A bizarre hybrid creature with a moose's front half and a bear's rear half, walking with different legs suited to different terrain types.",
+      "full": "The Tote-Road Shagamaw is one of the most absurdly designed fearsome critters. This creature has the front half of a moose and the rear half of a bear, creating an anatomically ridiculous hybrid. The front legs are moose hooves while the back legs have bear paws. According to the tall tales, this unique configuration allows the Shagamaw to travel along tote roads (logging roads) more efficiently, with each set of legs adapted to different terrain. The moose front handles one side while the bear rear handles the other. The creature represents the fearsome critter tradition's love of impossible hybrid animals that mock the very concept of adaptation."
+    },
+    "etymology": {
+      "origin": "American lumberjack folklore, early 20th century",
+      "meaning": "'Tote-road' refers to logging roads used to haul (tote) supplies; 'Shagamaw' is nonsense naming",
+      "first_use": "circa 1910"
+    }
+  },
+
+  "classification": {
+    "taxonomy": {
+      "category": "CRYPTID",
+      "type": "Fearsome Critter",
+      "subtype": "Hybrid",
+      "variant": "Moose-Bear Composite"
+    },
+    "related_phenomena": []
+  },
+
+  "characteristics": {
+    "physical": {
+      "size": "Large, combining moose and bear dimensions",
+      "coloration": ["moose-colored front", "bear-colored rear"],
+      "features": [
+        {
+          "feature": "Moose front half",
+          "description": "Front portion including head, shoulders, and front legs are moose",
+          "frequency": "always"
+        },
+        {
+          "feature": "Bear rear half",
+          "description": "Back portion including hindquarters and rear legs are bear",
+          "frequency": "always"
+        },
+        {
+          "feature": "Mismatched legs",
+          "description": "Front hooves and rear paws create awkward gait",
+          "frequency": "always"
+        }
+      ],
+      "morphology": "Impossible hybrid of moose and bear joined at the midsection"
+    },
+    "abilities": [
+      {
+        "ability": "Terrain navigation",
+        "description": "Different leg types supposedly suited to different terrain",
+        "frequency": "common",
+        "evidence_level": "folklore"
+      },
+      {
+        "ability": "Tote-road travel",
+        "description": "Adapted for logging roads specifically",
+        "frequency": "common",
+        "evidence_level": "folklore"
+      }
+    ],
+    "behavior": {
+      "activity_period": "variable",
+      "disposition": "neutral",
+      "social_structure": "solitary",
+      "habitat_preference": ["tote roads", "logging paths", "lumber regions"],
+      "diet": "Presumably combines moose and bear diets",
+      "patterns": [
+        "Travels along logging roads",
+        "Awkward but functional gait",
+        "Each half suited to different terrain"
+      ]
+    }
+  },
+
+  "distribution": {
+    "range": {
+      "description": "Lumber regions with tote roads (logging supply roads)",
+      "continents": ["North America"],
+      "countries": ["United States", "Canada"],
+      "regions": ["Lumber territories", "Northern forests"]
+    },
+    "temporal": {
+      "first_recorded": {
+        "date": "1910",
+        "circa": true,
+        "source": "Lumberjack tall tale collections"
+      }
+    }
+  },
+
+  "history": {
+    "origins": {
+      "cultural_roots": "American occupational folklore from lumber camps",
+      "folklore_connections": "Represents parody of evolutionary adaptation through absurd hybrid design"
+    }
+  },
+
+  "cultural": {
+    "folklore": {
+      "traditions": ["Lumberjack tall tales"],
+      "beliefs": "Mock-scientific explanation for an impossible creature; parody of natural adaptation"
+    },
+    "popular_culture": {
+      "literature": [
+        "Fearsome Creatures of the Lumberwoods by William T. Cox (1910)"
+      ]
+    }
+  },
+
+  "sources": [
+    {
+      "id": "cox-1910",
+      "type": "book",
+      "title": "Fearsome Creatures of the Lumberwoods",
+      "authors": ["William T. Cox"],
+      "date": "1910"
+    }
+  ]
+}
